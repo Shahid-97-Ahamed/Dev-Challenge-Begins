@@ -147,3 +147,16 @@
     width: 477px;
   }
   /* ============= Web Dev Style End ============ */
+  /* =========== Inspiration style start =========== */
+.inspiration_section {
+    padding-top: 90px;
+  }
+  .video_section {
+    padding: 32px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+  }
+  .video {
+    border-radius: 16px;
+  }
+  /* =========== Inspiration style end =========== */
