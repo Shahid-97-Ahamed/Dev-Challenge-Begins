@@ -52,3 +52,50 @@
     font-family: "Azeret Mono", monospace;
   }
   /* ============= Navbar style end ============ */
+ /* ============= Banner style start ============== */
+.banner {
+    background-image: url("../assets/Hero-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .banner_small_img {
+    padding: 26px 0 32px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .banner_heading {
+    color: #0d1321;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    text-align: center;
+  }
+  .details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0 32px 0;
+  }
+  .banner_details {
+    width: 852px;
+    color: #0d1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+  }
+  .banner_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 45px;
+  }
+  .contact_btn {
+    background-color: #0d1321;
+    color: #ffffff;
+    border: 0px solid transparent;
+    text-align: center;
+  }
+  /* ============= Banner style end ============== */
