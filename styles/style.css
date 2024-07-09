@@ -160,3 +160,63 @@
     border-radius: 16px;
   }
   /* =========== Inspiration style end =========== */
+
+  /* ======== target style start ======= */
+.target {
+    padding-top: 151px;
+    padding-bottom: 111px;
+  }
+  .technology {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .tech {
+    padding: 40px;
+    /* border: 1px solid rgba(13, 19, 33, 0.2); */
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.05);
+  }
+  .title {
+    padding: 24px 0 8px 0;
+  }
+  .title,
+  .para {
+    text-align: left;
+  }
+  .para {
+    width: 284px;
+  }
+  .link {
+    margin-top: 24px;
+    color: #0d1321;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .tech2 {
+    background-color: rgba(0, 76, 232, 0.05);
+  }
+  .tech3 {
+    background-color: rgba(255, 223, 0, 0.05);
+  }
+  /* ======== target style end ======= */
+  
+  /* =========== next target style start  ========== */
+  .next_target {
+    padding-bottom: 49px;
+  }
+  .new_tech {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 40px;
+    border: 1px solid #0d1321;
+    border-radius: 16px;
+    margin-bottom: 24px;
+  }
+  .target_detail {
+    width: 941px;
+  }
+  /* =========== next target style end  ========== */
+  
