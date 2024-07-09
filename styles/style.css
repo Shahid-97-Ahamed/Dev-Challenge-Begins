@@ -1,0 +1,54 @@
+/* ===== Common style start ====== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Azeret Mono", monospace;
+  }
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  .common_btn {
+    padding: 17px 24px;
+    border: 1px solid #0d1321;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+    cursor: pointer;
+  }
+  .heading {
+    color: #0d1321;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: auto;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .paragraph {
+    color: #0d1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 852px;
+    text-align: center;
+  }
+  /* ===== Common style end ====== */
+  
+  /* ============= Navbar style start ============ */
+  .navbar {
+    margin: 35px 0;
+  }
+  .nav_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    color: "#0D1321";
+    font-size: 28px;
+    font-weight: 800;
+    font-family: "Azeret Mono", monospace;
+  }
+  /* ============= Navbar style end ============ */
